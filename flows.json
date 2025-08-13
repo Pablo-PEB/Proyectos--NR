@@ -953,8 +953,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 680,
-        "y": 280,
+        "x": 480,
+        "y": 360,
         "wires": []
     },
     {
@@ -987,8 +987,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 600,
-        "y": 520,
+        "x": 480,
+        "y": 460,
         "wires": []
     },
     {
